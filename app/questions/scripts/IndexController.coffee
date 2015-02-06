@@ -19,7 +19,7 @@ angular
       11: "Having a big party at home "
       12: "Initiating lovemaking "
       13: "Refusing lovemaking"
-      14: "Talking about how to improve love making "
+      14: "Talking about how to improve lovemaking"
       15: "How to renew ourselves when we are fatigued or burned out"
       16: "How should we deal with bad luck?"
       17: "Turning in at night "
